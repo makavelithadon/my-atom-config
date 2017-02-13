@@ -1,0 +1,73 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "b0031317-54f7-482e-88b3-099e4caec56a"
+  build: {}
+  core:
+    disabledPackages: [
+      "wrap-guide"
+      "w3c-validation"
+      "linter-csslint"
+      "merge-conflicts"
+      "jack-n-coke"
+      "linter-sass-lint"
+      "linter-scss-lint"
+      "build"
+      "build-gulp"
+      "linter-stylelint"
+      "jshint"
+    ]
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 19
+    invisibles: {}
+    showIndentGuide: true
+    softWrap: true
+    tabLength: 4
+  emmet: {}
+  "exception-reporting":
+    userId: "30b8751c-076f-abea-dc97-422dfa0624c8"
+  linter: {}
+  "linter-eslint":
+    disableWhenNoEslintConfig: false
+    eslintrcPath: "C:/config/atom/.eslintrc"
+  "linter-scss-lint": {}
+  livereload:
+    applyJSLive: true
+  minimap:
+    plugins:
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+      re: true
+  welcome:
+    showOnStartup: false
+".babel.regexp.source":
+  editor:
+    tabLength: 4
+".basic.html.text":
+  editor:
+    tabLength: 4
+".css.scss.source":
+  editor:
+    tabLength: 4
+".css.source":
+  editor:
+    tabLength: 4
+".html.text.vue":
+  editor:
+    tabLength: 4
+".js.jsx.source":
+  editor:
+    tabLength: 4
+".js.regexp.replacement.source":
+  editor:
+    tabLength: 4
+".js.regexp.source":
+  editor:
+    tabLength: 4
+".js.source":
+  editor:
+    tabLength: 4
+".sass.source":
+  editor:
+    tabLength: 4
