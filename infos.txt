@@ -1,0 +1,3 @@
+Launch this line on your command line to backup your installed packages
+
+apm list --installed --bare > packages.list
